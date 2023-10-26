@@ -3,6 +3,8 @@
 ## Updated items
 * Added descriptive alt statments for each image and icon
 * Changed some of the generic tags to tags that are more closely related to the element
+* Fixed broken link for Search Engine Optimization
+* Changed the title to something more descriptive
 * !["A white capital H with Horiseon blue in background"](./assets/images/image-1.png) Added favicon
 * Combined css classes that used the same values
 
